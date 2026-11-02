@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-This repository contains my solutions to programming problems from [Codeforces](https://codeforces.com/), written in Python.
+This repository contains my solutions to problems from [Codeforces](https://codeforces.com/), written in Python.
 
 I created this repository to document my competitive programming journey.
 
