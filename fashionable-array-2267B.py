@@ -1,4 +1,3 @@
-# 30/10/2026
 from collections import Counter
 n = int(input())
 while n > 0:

@@ -1,5 +1,3 @@
-# 21/10/2026
-
 # brute force code 
 
 # n = int(input())

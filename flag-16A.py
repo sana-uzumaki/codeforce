@@ -1,4 +1,3 @@
-# 18/10/2026
 n, m = list(map(int,input().split(" ")))
 s = ""
 f = True

@@ -1,4 +1,3 @@
-# 19/10/2026
 n, m = list(map(int,input().split(" ")))
 container = []
 for i in range(m):

@@ -1,4 +1,3 @@
-# 24/10/2026
 s = input()
 upper = lower = 0
 for i in s:

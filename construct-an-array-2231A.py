@@ -1,4 +1,3 @@
-# 31/10/2026
 n = int(input())
 while n > 0:
     n -= 1
