@@ -10,7 +10,6 @@
 #         break
 # else:
 #     print("NO")
-
 s = input()
 last = s[0]
 flag = True
